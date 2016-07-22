@@ -65,7 +65,15 @@
   transform: scale(1);
   transition: 1s;
 }
-
+.bold {
+  font-weight:bold;
+}
+.quote {
+  border-top:1px solid grey;
+  padding-top:40px;
+  padding-bottom:40px;
+  padding-left:20px;
+}
 
 
 

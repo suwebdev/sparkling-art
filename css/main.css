@@ -45,7 +45,7 @@
 }
 .active button {
   display: block;
-} 
+}
 .offscreen {
   position: absolute;
   left: -2000px;
@@ -53,14 +53,14 @@
 .active li {
   position: absolute;
   top: 130px;
- 
+
   opacity: 0;
   transform: scale(0);
   transition: 1s;
 }
 .active li.current {
   top: 30px;
- 
+
   opacity: 1;
   transform: scale(1);
   transition: 1s;
@@ -78,13 +78,15 @@
 
 
 
+/*--------  PRODUCT SECTION ---------*/
 
 
+.product-section {
+  margin: 50px 0;
+  border-top: 3px #efefef dashed;
+  padding: 20px 0;
+}
 
-
-
-
-
-
-
-
+.product-section div {
+  padding: 20px;
+}

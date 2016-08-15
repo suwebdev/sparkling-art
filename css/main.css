@@ -3,6 +3,9 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  color: pink;
+}
 .carouselbox {
   font-family: helvetica,sans-serif;
   font-size: 14px;
